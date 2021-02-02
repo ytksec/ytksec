@@ -28,7 +28,7 @@ CCDA(Cisco Certified Design Associate)
 CCNA(Cisco Certified Network Associate Routing and Switching)  
 .com Master ★★  
 
-# Speciality/専門
+## Speciality/専門
 
 Network design and construction/ネットワーク設計、構築  
   Cisco
@@ -43,6 +43,10 @@ Security product design and implementation
   Netskope  
   Sophos  
 
-# Social Account
+## Social Account
 
   [twitter](https://twitter.com/ytksec)
+
+## blog
+
+  [Blog](https://www.lifehusky.com)
