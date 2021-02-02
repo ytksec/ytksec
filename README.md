@@ -13,18 +13,18 @@ Tennis
 ## Qualification
 
 Okta Sales Fundamentals  
-Okta Sales Aplied
-Sophos Certified Architect
-Sophos Certified Engineer
-Sophos Certified Sales Consultant
-APSS Avaya Data Solutions
-VoIP Advisor
-Cisco Express Foundation Field Specialist
-Cisco Express Foundation Design Specialist
-Cisco Sales Expert
-CCDA(Cisco Certified Design Associate)
-CCNA(Cisco Certified Network Associate Routing and Switching)
-.com Master ★★
+Okta Sales Aplied  
+Sophos Certified Architect  
+Sophos Certified Engineer  
+Sophos Certified Sales Consultant  
+APSS Avaya Data Solutions  
+VoIP Advisor  
+Cisco Express Foundation Field Specialist  
+Cisco Express Foundation Design Specialist  
+Cisco Sales Expert  
+CCDA(Cisco Certified Design Associate)  
+CCNA(Cisco Certified Network Associate Routing and Switching)  
+.com Master ★★  
 
 # Usage
 
