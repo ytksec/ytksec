@@ -1,16 +1,18 @@
-## jobs
+# About me
+
+## jobs/仕事
 
 Security & Network Engineer
 
-## Age
+## Age/年齢
 
 32
 
-## Hobby
+## Hobby/趣味
 
-Tennis
+Tennis,Car
 
-## Qualification
+## Qualification/資格
 
 Okta Sales Fundamentals  
 Okta Sales Aplied  
@@ -26,33 +28,21 @@ CCDA(Cisco Certified Design Associate)
 CCNA(Cisco Certified Network Associate Routing and Switching)  
 .com Master ★★  
 
-# Usage
+# Speciality/専門
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+Network design and construction/ネットワーク設計、構築  
+  Cisco
+  Aruba  
+  PaloAlto  
+  Fortigate  
+Security product design and implementation
+  Okta  
+  Azure AD
+  Cisco Duo
+  Zscaler  
+  Netskope  
+  Sophos  
 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+# Social Account
 
-# Note
-
-注意点などがあれば書く
-
-# Author
-
-作成情報を列挙する
-
-* 作成者
-* 所属
-* E-mail
-
-# License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
+  [twitter](https://twitter.com/ytksec)
