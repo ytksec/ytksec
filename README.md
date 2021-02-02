@@ -36,13 +36,13 @@ CCNA(Cisco Certified Network Associate Routing and Switching)
   + PaloAlto  
   + Fortigate  
   
-*Security product design and implementation*  
-  Okta  
-  Azure AD  
-  Cisco Duo  
-  Zscaler  
-  Netskope  
-  Sophos  
++ Security product design and implementation/セキュリティ製品設計、導入  
+  + Okta  
+  + Azure AD  
+  + Cisco Duo  
+  + Zscaler  
+  + Netskope  
+  + Sophos  
 
 ## Social Account
 
