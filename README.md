@@ -47,6 +47,6 @@ Security product design and implementation
 
   [twitter](https://twitter.com/ytksec)
 
-## blog
+## Blog
 
   [Blog](https://www.lifehusky.com)
