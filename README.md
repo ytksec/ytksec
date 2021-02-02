@@ -1,18 +1,18 @@
 # About me
 
-## jobs/仕事
+## jobs
 
 Security & Network Engineer
 
-## Age/年齢
+## Age
 
 32
 
-## Hobby/趣味
+## Hobby
 
 Tennis,Car
 
-## Qualification/資格
+## Qualification
 
 + Okta Sales Fundamentals  
 + Okta Sales Aplied  
@@ -28,7 +28,7 @@ Tennis,Car
 + CCNA(Cisco Certified Network Associate Routing and Switching)  
 + .com Master ★★  
 
-## Speciality/専門
+## Speciality
 
 + Security product design and implementation/セキュリティ製品設計、導入  
   + Okta  
