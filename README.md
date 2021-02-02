@@ -12,7 +12,7 @@ Tennis
 
 ## Qualification
 
-Okta Sales Fundamentals
+Okta Sales Fundamentals 
 Okta Sales Aplied
 Sophos Certified Architect
 Sophos Certified Engineer
