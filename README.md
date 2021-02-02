@@ -30,11 +30,11 @@ CCNA(Cisco Certified Network Associate Routing and Switching)
 
 ## Speciality/専門
 
-*Network design and construction/ネットワーク設計、構築*    
-  Cisco  
-  Aruba  
-  PaloAlto  
-  Fortigate  
++Network design and construction/ネットワーク設計、構築    
+  +Cisco  
+  +Aruba  
+  +PaloAlto  
+  +Fortigate  
   
 *Security product design and implementation*  
   Okta  
