@@ -30,15 +30,16 @@ CCNA(Cisco Certified Network Associate Routing and Switching)
 
 ## Speciality/専門
 
-Network design and construction/ネットワーク設計、構築  
-  Cisco
+*Network design and construction/ネットワーク設計、構築*    
+  Cisco  
   Aruba  
   PaloAlto  
   Fortigate  
-Security product design and implementation
+  
+*Security product design and implementation*  
   Okta  
-  Azure AD
-  Cisco Duo
+  Azure AD  
+  Cisco Duo  
   Zscaler  
   Netskope  
   Sophos  
