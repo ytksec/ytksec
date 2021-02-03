@@ -15,7 +15,7 @@ Tennis,Car
 ## Qualification
 
 + Okta Sales Fundamentals  
-+ Okta Sales Aplied  
++ Okta Sales Applied  
 + Sophos Certified Architect  
 + Sophos Certified Engineer  
 + Sophos Certified Sales Consultant  
