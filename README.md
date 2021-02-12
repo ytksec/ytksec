@@ -1,5 +1,15 @@
 # About me
 
+<p align="left"> 
+  <a href="https://github.com/ytksec/ytksec/">
+    <img src="https://komarev.com/ghpvc/?username=ytksec" alt="ytksec" />
+  </a>
+  <a href="http://twitter.com/ytksec">
+    <img height="20" src="https://img.shields.io/twitter/follow/ytksec?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
+
+
 ## jobs
 
 Security & Network Engineer
