@@ -10,19 +10,19 @@
 </p>
 
 
-## jobs
+## jobs(職種)
 
 Security & Network Engineer
 
-## Age
+## Age(年齢)
 
 32
 
-## Hobby
+## Hobby(趣味)
 
 Tennis,Car
 
-## Speciality
+## Speciality(専門)
 
 + Security product design and implementation/セキュリティ製品設計、導入  
   + Okta  
@@ -38,7 +38,7 @@ Tennis,Car
   + PaloAlto  
   + Fortigate  
   
-## Qualification
+## Qualification(資格)
 
 + Okta Sales Fundamentals  
 + Okta Sales Applied  
@@ -54,7 +54,7 @@ Tennis,Car
 + CCNA(Cisco Certified Network Associate Routing and Switching)  
 + .com Master ★★  
   
-## Speech
+## Speech(登壇)
 
 + [テレワークを含めたワークスタイル変革のためのセキュリティ対策(ゼロトラストセキュリティ)](https://tsuzuki.jp/event/event_2020/es480.html)
 + [身近に潜むサイバー攻撃](https://c-consul.co.jp/kunimamori_8th/result/)
