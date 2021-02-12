@@ -49,6 +49,4 @@ Tennis,Car
 
   [twitter](https://twitter.com/ytksec)
 
-## Blog
 
-  [Blog](https://www.lifehusky.com)
