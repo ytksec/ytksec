@@ -54,6 +54,11 @@ Tennis,Car
   + PaloAlto  
   + Fortigate  
   
+## Speech
+
++ [テレワークを含めたワークスタイル変革のためのセキュリティ対策(ゼロトラストセキュリティ)](https://tsuzuki.jp/event/event_2020/es480.html)
++ [身近に潜むサイバー攻撃](https://c-consul.co.jp/kunimamori_8th/result/)
+
 
 ## Social Account
 
