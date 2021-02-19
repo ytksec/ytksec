@@ -27,8 +27,8 @@ Tennis,Car
 + Security product design and implementation/セキュリティ製品設計、導入  
   + Okta  
   + Azure AD  
-  + Cisco Duo       →まとめ情報[Cisco Duo Tips](https://github.com/ytksec/CiscoDuo-Tips)
-  + Cisco Umbrella  →まとめ情報[Cisco Umbrella Tips](https://github.com/ytksec/CiscoUmbrella-Tips)
+  + Cisco Duo       →まとめ情報[Duo Tips](https://github.com/ytksec/CiscoDuo-Tips)
+  + Cisco Umbrella  →まとめ情報[Umbrella Tips](https://github.com/ytksec/CiscoUmbrella-Tips)
   + Zscaler         →まとめ情報[Zscaler Tips](https://github.com/ytksec/Zscaler-Tips)
   + Netskope  
   + Sophos  
