@@ -43,6 +43,7 @@ Tennis,Drive
 
 + 情報処理安全確保支援士
 + ネットワークスペシャリスト
++ CND(Certified Network Defender)
 + Okta Sales Fundamentals  
 + Okta Sales Applied  
 + Sophos Certified Architect  
