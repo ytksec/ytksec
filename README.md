@@ -16,11 +16,11 @@ Security & Network Engineer
 
 ## Age
 
-33
+34
 
 ## Hobby
 
-Tennis,Car
+Tennis,Drive
 
 ## Speciality
 
@@ -42,6 +42,7 @@ Tennis,Car
 ## Qualification
 
 + 情報処理安全確保支援士
++ ネットワークスペシャリスト
 + Okta Sales Fundamentals  
 + Okta Sales Applied  
 + Sophos Certified Architect  
